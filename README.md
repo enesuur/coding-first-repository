@@ -2,7 +2,7 @@
 ---
 This repository is the first repository during [kodluyoruz](https://kodluyoruz.org) training. It includes one README.md file and one index.html file.
 
-### Image of basic HTML recipe page.
+### Some codes of basic HTML recipe page.
 
 ![Preview of the Article part](code-screenshot.png)
 
@@ -14,8 +14,7 @@ This repository is the first repository during [kodluyoruz](https://kodluyoruz.o
  git clone https://github.com/enesuur/coding-first-repository.git 
  
   ```
-  ---
-
+  
   # Usage
   2. After cloning the project open Visual Studio Code.
 
@@ -27,9 +26,11 @@ For Windows:
 ```
 code .
 ```
+---
 # Contributing
 All **pull requests** are acceptable it is only for learning markdown. :)
 
+--- 
 # License
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
